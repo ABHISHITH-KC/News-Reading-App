@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446921810589",
+    "project_id": "abhi-newsapp",
+    "storage_bucket": "abhi-newsapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446921810589:android:a19603245bd3d77843ea74",
+        "android_client_info": {
+          "package_name": "com.example.newsapp_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArfBFcgwLEVnGtVl-O29RAFBH_J5HfFkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
